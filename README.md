@@ -1,1 +1,1 @@
-Tableau Profile -  https://public.tableau.com/app/profile/viswabhargava.reddy/vizzes
+Netflix Dashboard - https://public.tableau.com/app/profile/viswabhargava.reddy/vizzes
